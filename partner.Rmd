@@ -1,0 +1,26 @@
+---
+title: "partner.Rmd"
+author: "Tessa Mendoza"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Partner: Tessa Mendoza
+
+Username: tmendoza
+
+In the most recent commit, the Owner initialized the commit for both the hw1.html and hw1.Rmd files. This was also done with the MT_GISdataimage.gif.
+
+
+The commit ID is: 97fe1f5
+
+
+I did not encounter any errors knitting this file. However, one tip I have for utilizing git/GitHub is to use the 'ls' command in bash when you're navigating through directories. It can be easy to be get "lost" in the file structures, especially when you're new to bash and the folders, so double checking with 'ls' and 'pwd' can be especially helpful before cloning a GitHub repository. 
+
+
